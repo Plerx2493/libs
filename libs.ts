@@ -1546,7 +1546,7 @@ export const libs: Lib[] = [
 		language: 'Python',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: '4 stable, 8 dev',
+		voiceVer: 'E2EE',
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
@@ -1565,7 +1565,7 @@ export const libs: Lib[] = [
 		userApps: 'Yes',
 		polls: 'Yes',
 		forwarding: 'Yes',
-		appEmoji: 'Dev Version',
+		appEmoji: 'Yes',
 		componentsV2: 'Yes',
 	},
 	{
